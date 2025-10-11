@@ -1,4 +1,4 @@
-![Hey there, I'm Bishal. I'm an Electronics and IT Engineering student, a maker, and an embedded systems enthusiast. Check out my work](https://github.com/iamghimirebishal/iamghimirebishal/raw/main/assets/header.gif)
+![Hey there, I'm Bishal. I'm an Electronics and IT Engineering student, a maker, and an embedded systems enthusiast. Check out my work](headerbis.gif)
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow)
 &nbsp;
