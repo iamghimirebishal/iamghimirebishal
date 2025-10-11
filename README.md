@@ -1,12 +1,12 @@
 ![Hey there, I'm Bishal. I'm an Electronics and IT Engineering student, a maker, and an embedded systems enthusiast. Check out my work](header.gif)
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow)
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://x.com/ghimirebishall)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/iamghimirebishal?logo=GitHub&style=for-the-badge)](https://github.com/iamghimirebishal)
 &nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/iamghimirebishal?logo=github&style=for-the-badge)](https://github.com/iamghimirebishal)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-ghimire)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bishal-ghimirey)
 &nbsp;
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/iamghimirebishal?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/iamghimirebishal)
 
