@@ -20,7 +20,7 @@ I’m passionate about **embedded systems, IoT, and smart automation**, and I lo
 From **Arduino bots** to **Raspberry Pi-based automation** and **AI-driven projects**, I believe in learning by doing.  
 Currently exploring **AI, OpenCV, and cybersecurity**, while contributing to **Robokath – our college robotics club**.
 
-📬 Reach me at **sharmavisal123456@gmail.com**
+📬 Reach me at **iamghimirebishal@gmail.com**
 
 ---
 
