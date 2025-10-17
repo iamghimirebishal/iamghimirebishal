@@ -45,11 +45,19 @@ It detects and tracks people from live video, targeting applications in **smart 
 
 ## 🏗️ &nbsp;Featured Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamghimirebishal&repo=Bot-Racing-Game&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/iamghimirebishal/Bot-Racing-Game)
+
+![Bot Racing Game Preview](https://github.com/iamghimirebishal/Bot-Racing-Game/blob/main/imgs/bot%20racing.gif)
+&nbsp;
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamghimirebishal&repo=Vision-Based-Automatic-People-Counting&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/iamghimirebishal/Vision-Based-Automatic-People-Counting)
 &nbsp;
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamghimirebishal&repo=Learnify-Hackathon-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/iamghimirebishal/Learnify-Hackathon-Project)
 &nbsp;
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamghimirebishal&repo=Electronic-Voting-Machine&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/iamghimirebishal/Electronic-Voting-Machine)
+
 
 ---
 
